@@ -213,6 +213,7 @@ body{
 .conten-t .fab{
     font-size: 70px;
     margin: 16px 0;
+    color: #E1306C;
 }
 .conten-t > *{
     flex: 1 1 100%;
