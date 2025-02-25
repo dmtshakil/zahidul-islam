@@ -24,7 +24,7 @@ $(document).ready(function(){
 });
 
 let currentIndex = 0;
-const images = ["img-2/img (1).png", "img-2/img (2).png", "img-2/img (3).png", "img-2/img (4).png", "img-2/img (5).png","img-2/img (6).png","img-2/img (7).png","img-2/img (8).png","img-2/img (9).png","img-2/img (10).png","img-2/img (11).png","img-2/img (12).png", ];
+const images = ["img-2/img (1).png", "img-2/img (2).png", "img-2/img (3).png", "img-2/img (4).png", "img-2/img (5).png","img-2/img (6).png","img-2/img (7).png","img-2/img (8).png","img-2/img (9).png","img-2/img (10).png","img-2/img (11).png","img-2/img (12).png"];
 
 function openModal(index) {
     currentIndex = index;
